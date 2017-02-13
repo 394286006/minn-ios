@@ -1,0 +1,31 @@
+
+/* Class = "UIButton"; normalTitle = "<<"; ObjectID = "23A-Qh-hp3"; */
+"23A-Qh-hp3.normalTitle" = "<<";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EWk-Q5-J3C"; */
+"EWk-Q5-J3C.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "<<"; ObjectID = "GGe-Si-j7J"; */
+"GGe-Si-j7J.normalTitle" = "<<";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "VpH-DM-R23"; */
+"VpH-DM-R23.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "UserMonitor"; ObjectID = "bKw-o1-6lB"; */
+"bKw-o1-6lB.title" = "UserMonitor";
+
+/* Class = "UINavigationItem"; title = "ReportAnalysis"; ObjectID = "dh8-lG-e2c"; */
+"dh8-lG-e2c.title" = "ReportAnalysis";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sFh-qd-Bbj"; */
+"sFh-qd-Bbj.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "z54-KT-YXM"; */
+"z54-KT-YXM.normalTitle" = "Button";
+
+"XJ1-Gj-PW3.text"="UserName"
+
+"Hp2-WP-2ZS.text"="Password"
+
+/* Class = "UIButton"; normalTitle = "ok"; ObjectID = "9Jg-7K-AZU"; */
+"9Jg-7K-AZU.title"="OK"

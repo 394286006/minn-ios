@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "9Jg-7K-AZU"; */
+"9Jg-7K-AZU.normalTitle" = "确定";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "Hp2-WP-2ZS"; */
+"Hp2-WP-2ZS.text" = "密   码";
+
+/* Class = "UILabel"; text = "userName"; ObjectID = "XJ1-Gj-PW3"; */
+"XJ1-Gj-PW3.text" = "用户名";
